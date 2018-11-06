@@ -16,7 +16,7 @@ escapeanaemia@gmail.com
 
 ## .svg 파일 생성
 일러스트에서 생성한 객체들은 벡터 형태로 저장이 됩니다. 따라서 우리는 해당 백터 객체들을 프로세싱으로 불러와서 사용할 수 있습니다. 
-
+<img src="https://github.com/escapeanaemia/Illustration-to-Processing/blob/master/image1.png?raw=true" width="400" height="300">
 
 
 
@@ -64,7 +64,7 @@ getChild(i)는 index 번호 i 에 해당하는 자식을 리턴합니다.
 shape()은 가져온 데이터를 프로세싱에서 다시 생성하는 역할을 합니다. 마치 rect이나 ellipse를 이용해 사각형, 원을 그리는 것과 유사합니다. 
 
 인덱스에 대한 이해를 위해 일러스트로 아래와 같은 이미지를 생성하였습니다. 
-
+<img src="https://github.com/escapeanaemia/Illustration-to-Processing/blob/master/image2.png?raw=true" width="400" height="400">
 
 
 ```
@@ -123,7 +123,7 @@ void draw() {
   }
 }
 ```
-
+<img src="https://github.com/escapeanaemia/Illustration-to-Processing/blob/master/image3.png?raw=true" width="400" height="400">
 
 
 실행 결과는 위와 같습니다. 코드를 분석해보면
