@@ -1,4 +1,4 @@
-# Illustrator-to-Processing(수정중)
+# Illustrator-to-Processing
 
 이 문서는 어도비 일러스트레이터 파일을 프로세싱으로 불러와서 사용하는 방법을 소개합니다.
 
